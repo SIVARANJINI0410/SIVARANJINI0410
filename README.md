@@ -11,11 +11,13 @@
 <br/>
 <br/>
 
-Senior Software Developer
-Intrested on both development and testing. I have a knowledge on various skills that include back-end development using open source technologies (Java, Python), frameworks (SpringBoot), architecture (monolithic, microservice), front-end development (Angular9, HTML5, CSS3, Javascript, Bootstrap), Server Administrator(AWS), database (MongoDB,Mysql,PostgreSQL), CI/CD(Docker, kubernetes), Testing (Manual, Automation), Automation Tools (Selenium, QTP), Testing Framework (JUnit, TestNG, PowerMockito) and IDE's (Eclipse, STS, PGAdmin, Visual Studio Code, MySql Workbench).
+<h3>I'm </h3>
+<h3>Senior Software Developer</h3>
+Interested on both development and testing. I have a knowledge on various skills that include back-end development using open source technologies (Java, Python), frameworks (SpringBoot), architecture (monolithic, microservice), front-end development (Angular9, HTML5, CSS3, Javascript, Bootstrap), Server Administrator(AWS), database (MongoDB,Mysql,PostgreSQL), CI/CD(Docker, kubernetes), Testing (Manual, Automation), Automation Tools (Selenium, QTP), Testing Framework (JUnit, TestNG, PowerMockito) and IDE's (Eclipse, STS, PGAdmin, Visual Studio Code, MySql Workbench).
 <br/>
-💬 Ask me about ...- 🌱 I’m currently learning ...
-📫 You can reach me:  <a href="mailto:renukamaradagi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+💬 Ask me about ...- 🌱 I’m currently learning Fullstack Development at Edureka ...
+<br/>
+📫 You can reach me:  <a href="mailto:sara19920410@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 
