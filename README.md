@@ -19,10 +19,10 @@ Interested on both development and testing. I have a knowledge on various skills
 <br/><br/>
 📫 You can reach me:  <a href="mailto:sara19920410@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
-
+<!-- 
 <br/>
 ![Visitor Count](https://profile-counter.glitch.me/SIVARANJINI0410/count.svg)
-<br/>
+<br/> -->
 
 
 <br/><br/>
