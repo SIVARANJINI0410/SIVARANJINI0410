@@ -1,4 +1,4 @@
-<h1 align = "center">Hello Everyone!, I'm Sivaranjini Paulthiyagu 👋</h1>
+<h1 align = "center">Hello Everyone! I'm Sivaranjini Paulthiyagu 👋</h1>
 <h3 align = "center">IT Analyst in Tata Consultancy Services</h3>
 
 <a href="https://www.linkedin.com/in/sivaranjini-p-0410/">
